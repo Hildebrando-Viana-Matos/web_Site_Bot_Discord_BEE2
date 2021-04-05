@@ -1,5 +1,5 @@
- <a href="https://github.com/Hildebrando-Viana-Matos/border-radius-generator">
-    <img align="center" src="https://github.com/Hildebrando-Viana-Matos/border-radius-generator/blob/main/assets/img/readme-img.png" alt="banner H border-radius">
+ <a href="https://hildebrando-viana-matos.github.io/web_Site_Bot_Discord_BEE2/">
+    <img align="center" src="https://github.com/Hildebrando-Viana-Matos/web_Site_Bot_Discord_BEE2/blob/main/assets/BEE2.png" alt="banner Bot Discord BEE2">
  </a>
  
 <details open="open">
@@ -34,7 +34,7 @@ I used some web technologies in order to train:mortar_board::
 * JavaScript
 
 ## Getting Started
-It is so simple to install and run this project on your local machine, but you can just go to this [link](https://hildebrando-viana-matos.github.io/border-radius-generator/)
+It is so simple to install and run this project on your local machine, but you can just go to this [link](https://hildebrando-viana-matos.github.io/web_Site_Bot_Discord_BEE2/)
 ### Installation
 1. Clone the repository
    ```sh
@@ -56,4 +56,4 @@ You want contribute of this object????:scream: GREAT!!!!:heart_eyes::heart_eyes:
 
 Hildebrando Viana Matos - [@hildovm](https://www.instagram.com/hildovm/) - hildocontato@gmail.com
 
-Project Link: [https://hildebrando-viana-matos.github.io/border-radius-generator/.](https://hildebrando-viana-matos.github.io/border-radius-generator/.)
+Project Link: [https://hildebrando-viana-matos.github.io/web_Site_Bot_Discord_BEE2/](https://hildebrando-viana-matos.github.io/web_Site_Bot_Discord_BEE2/)
